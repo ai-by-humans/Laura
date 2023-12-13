@@ -16,7 +16,8 @@ The chatbot is designed to simulate a conversation with a character named Laura,
 ```
 ----- Conversation -----
 User: Hello! what is your name? and tell me a fun fact about yourself
-Model (Laura): Hello! My name is Laura. A fun fact about myself is that I love to travel and have visited over 20 countries so far!
+Model (Laura): Hello! My name is Laura. 
+A fun fact about myself is that I love to travel and have visited over 20 countries so far!
 
 *smiles*
 
