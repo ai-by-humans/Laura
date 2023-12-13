@@ -12,3 +12,14 @@ The chatbot is designed to simulate a conversation with a character named Laura,
 1. Install the OpenAI Python package and run app.py:
    ```bash
    pip install openai
+## example
+```
+----- Conversation -----
+User: Hello! what is your name? and tell me a fun fact about yourself
+Model (Laura): Hello! My name is Laura. A fun fact about myself is that I love to travel and have visited over 20 countries so far!
+
+*smiles*
+
+Do you have any interesting stories or experiences from your travels? *leans in*
+------------------------
+```
